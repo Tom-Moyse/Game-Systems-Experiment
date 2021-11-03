@@ -1,0 +1,4 @@
+TODO: Make a sprite for the bullet
+TODO: Make animated sprites for player and enemies
+TODO: Make more enemy sprites
+TODO: Make weapon sprites
